@@ -12,6 +12,6 @@ In order to run it you have to
 - Reload your Fishtank page
   
 Upcoming changes:
-- Add an option to stay in the Global chatroom regardless of the camera you're watching
+- Add an option to stay in the Global chatroom regardless of which camera you're watching
 
 Half of it was done using ChatGPT since I barely know js so don't scream at me if it breaks :)
